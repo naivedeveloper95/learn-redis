@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/naivedeveloper95/learn-redis/actions/workflows/node.js.yml/badge.svg)](https://github.com/naivedeveloper95/learn-redis/actions/workflows/node.js.yml)
+
 # RediSolar for Node.js
 
 # Introduction
